@@ -1,0 +1,19 @@
+{
+  "name": "express-hbs",
+  "version": "1.0.0",
+  "description": "Boilerplate for express and hbs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev-server": "nodemon src/app.js -e js,css,hbs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
