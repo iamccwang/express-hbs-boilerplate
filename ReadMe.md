@@ -1,4 +1,4 @@
-# HTML Boilerplate 
+# Express and hbs Boilerplate 
 
 Make a boilerplate to start a express web app project easier.
 
